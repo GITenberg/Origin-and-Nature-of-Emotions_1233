@@ -1,0 +1,40 @@
+_repo: Origin-and-Nature-of-Emotions_1233
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crile, George Washington
+    aliases:
+    - Crile, George W. (George Washington)
+    - Crile, G. W. (George Washington)
+    birthdate: 1864
+    deathdate: 1943
+    gutenberg_agent_id: '565'
+    url: http://www.gutenberg.org/2009/agents/565
+description: Phylogenetic association in relation to certain medical problems.-Phylogenetic
+  association in relation to the emotions.- Pain, laughter, and crying.- The relation
+  between the physical state of the brain-cells and brain functions-experimental and
+  clinical.- A mechanistic view of psychology.- A mechanistic theory of disease.-
+  The kinetic system.- Alkalescence, acidity, anesthesia-a theory of anesthesia.
+gutenberg_bookshelf: Physiology
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1233'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcc 'QP'
+- !lcsh 'Emotions'
+- !lcsh 'Psychophysiology'
+- GITenberg
+tableOfContents: 'Phylogenetic association in relation to certain medical problems
+  -- Phylogenetic association in relation to the emotions -- Pain, laughter, and crying
+  -- The relation between the physical state of the brain-cells and brain functions:
+  experimental and clinical -- A mechanistic view of psychology -- A mechanistic theory
+  of disease -- The kinetic system -- Alkalescence, acidity, anesthesia: a theory
+  of anesthesia.'
+title: The Origin and Nature of the Emotions; Miscellaneous Papers
+url: http://www.gutenberg.org/ebooks/1233
